@@ -1,63 +1,60 @@
-Learning to Code in a Season I Didn’t Expect 
+# Starting Web Development — A Blog Post Card
 
-As a stay-at-home mom of two under two, finding time to pivot from what was already a short-lived career wasn’t simple. I started learning front-end development to fill the need to do something mentally stimulating that could also hold a reward in the long run — unlike my gaming and Sudoku hobbies. 
+My first front-end project: a single static blog-post card built with hand-written HTML and CSS. The post itself — *Learning to Code in a Season I Didn't Expect* — is a personal essay I later published on LinkedIn about picking up web development as a stay-at-home mom of two under two.
 
-As a mom, me-time is a luxury. You want to do something you enjoy, but this is also the only time you have to work toward something meaningful. 
+**Live demo:** https://lisaesterhuizen0-wq.github.io/my-blog-post/
 
-This article is about how I was able to fulfil both of those desires when I started my journey into web development, and the practical habits that helped me stick with it during this season of my life. 
+## Why I built this
 
- 
+I was teaching myself HTML and CSS from scratch and wanted a small, finishable project to anchor what I was learning. A single blog-post card felt like the right scope: enough structure to practise semantic HTML, typography, and layout, but small enough to actually ship.
 
-I have always been someone who loves math, logic, and deep thinking. I always imagined myself working a mentally stimulating job with lots of variety and challenges. 
+## Tech
 
-I used to be one of those people who said, “I could never work behind a screen all day.” Now, I find it hard when everyday life pulls me away from it. 
+- HTML
+- CSS (no framework)
 
-I also assumed front-end development would be boring and that if I could just get through the HTML and CSS part, I might enjoy the deeper stuff like JavaScript or Python. 
+## The article — *Learning to Code in a Season I Didn't Expect*
 
-I was wrong. 
+As a stay-at-home mom of two under two, finding time to pivot from what was already a short-lived career wasn't simple. I started learning front-end development to fill the need to do something mentally stimulating that could also hold a reward in the long run — unlike my gaming and Sudoku hobbies.
 
-Learning HTML and CSS has been so much fun. 
+As a mom, me-time is a luxury. You want to do something you enjoy, but this is also the only time you have to work toward something meaningful.
 
-The practical, hands-on nature of it has kept me invested and excited to carve out time for myself. It always feels like time I’ve invested in myself and my future skills. And as a mom, committing to something every day can be hard. 
+This article is about how I was able to fulfil both of those desires when I started my journey into web development, and the practical habits that helped me stick with it during this season of my life.
 
- 
+I have always been someone who loves math, logic, and deep thinking. I always imagined myself working a mentally stimulating job with lots of variety and challenges.
 
-Three things that really helped me stay consistent: 
+I used to be one of those people who said, "I could never work behind a screen all day." Now, I find it hard when everyday life pulls me away from it.
 
-1. I aim for at least 30 minutes a day 
+I also assumed front-end development would be boring and that if I could just get through the HTML and CSS part, I might enjoy the deeper stuff like JavaScript or Python.
 
-Sometimes that doesn’t happen. Sometimes it doesn’t happen for three days — and that’s okay. Having a small daily goal makes it easier to return. Keeping the time commitment short removes pressure and lowers the barrier to starting. 
+I was wrong.
 
-2. It’s not something I have to do 
+Learning HTML and CSS has been so much fun.
 
-I do this for me. I do it because I enjoy it. There are no strict deadlines, which gives me space to explore, experiment, and play. It makes learning feel lighter and more sustainable. 
+The practical, hands-on nature of it has kept me invested and excited to carve out time for myself. It always feels like time I've invested in myself and my future skills. And as a mom, committing to something every day can be hard.
 
-3. Don’t stay stuck in the struggle 
+### Three things that really helped me stay consistent
 
-I enjoy trying to figure things out on my own, but spending 30 minutes stuck on a tiny syntax error can be discouraging. Now, when I’m stuck, I use AI tools to help me spot mistakes faster. 
+**1. I aim for at least 30 minutes a day.** Sometimes that doesn't happen. Sometimes it doesn't happen for three days — and that's okay. Having a small daily goal makes it easier to return. Keeping the time commitment short removes pressure and lowers the barrier to starting.
 
-The key for me is: use AI, don’t abuse AI. 
-Understand the mistake. Learn from it. Remember the correction. 
+**2. It's not something I have to do.** I do this for me. I do it because I enjoy it. There are no strict deadlines, which gives me space to explore, experiment, and play. It makes learning feel lighter and more sustainable.
 
- 
+**3. Don't stay stuck in the struggle.** I enjoy trying to figure things out on my own, but spending 30 minutes stuck on a tiny syntax error can be discouraging. Now, when I'm stuck, I use AI tools to help me spot mistakes faster. The key for me is: **use AI, don't abuse AI.** Understand the mistake. Learn from it. Remember the correction.
 
-Practical habits that help: 
+### Practical habits that help
 
-Save your projects and assignments 
-No matter how small, I save everything. Being able to look back and see progress is incredibly motivating. 
+- **Save your projects and assignments.** No matter how small, I save everything. Being able to look back and see progress is incredibly motivating.
+- **Handwritten notes.** Writing things down has helped me remember syntax and concepts far better than typing. It slows me down in a good way and deepens understanding.
+- **Smaller notebooks (A5 instead of A4).** Smaller pages feel less overwhelming, more organized, and easier to carry around.
 
-Handwritten notes 
-Writing things down has helped me remember syntax and concepts far better than typing. It slows me down in a good way and deepens understanding. 
+### Thinking long-term
 
-Smaller notebooks (A5 instead of A4) 
-Smaller pages feel less overwhelming, more organized, and easier to carry around. This small change made notetaking feel manageable again. 
+We live in a digital, tech-driven world. I want to understand the language of it. I want my kids to grow up seeing this as normal. I believe tech literacy is becoming as essential as basic literacy.
 
-Thinking long-term 
+Whether I turn this into a career or not, learning to code feels like a valuable investment.
 
-We live in a digital, tech-driven world. I want to understand the language of it. I want my kids to grow up seeing this as normal. I believe tech literacy is becoming as essential as basic literacy. 
+And honestly… it's kind of cool.
 
-Whether I turn this into a career or not, learning to code feels like a valuable investment. 
+---
 
-And honestly… 
-
-It’s kind of cool. 
+*Part of my AI Operations portfolio — github.com/lisaesterhuizen0-wq*
